@@ -3,4 +3,4 @@
 
 Repositorio criado durante uma aula ao vivo
 
-Essa Linha adcional diretamente no site. Que impressionante
+Essa Linha adcionada diretamente no site. Que impressionante
